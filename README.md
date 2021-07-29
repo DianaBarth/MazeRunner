@@ -1,7 +1,9 @@
 # MazeRunner Project 
 This project is created in 2019 by Susanna Hepp and Antonia Reiter for educational purpose. 
-
 ![maze](docs/images/monster-maze.png "maze")
+
+## Preface
+Hello World!
 
 ## 1. Maze Runner in Python with MQTT
 Mazerunner is a collection of applications to introduce Service orientation, IoT technologies and collaborative development using state of the art DevOps systems like Github. 
